@@ -12,7 +12,7 @@ I started with a course on Python (Angela Yu's 100 Days of Python), where I lear
 
 I then improved upon my basic python skills with a Google course called 'Crash Course on Python'. This was a challenging course that really pushed my boundaries, and from which I gained a certificate of completion. 
 
-I am currently completing Andrei Nagoie's 'The Complete Web Developer: Zero to Mastery', which will help me improve on my web development skills by learning javascript and react.
+I am currently completing Andrei Nagoie's 'The Complete Web Developer: Zero to Mastery', which will help me improve on my web development skills by learning Javascript and React.
 
 *   🌍  I'm based in London, UK
 *   ✉️  You can contact me at [jrute@live.com](mailto:jrute@live.com)
