@@ -6,9 +6,7 @@ Software Developer
 
 I am an MFL Teacher looking for a career change. 
 
-My first step was googling 'how to become a python master really fast and effortlessly'. 
-
-Unfortunately, that method does still not exist, so ... 
+My first step was googling 'how to become a python master really fast and effortlessly'. Unfortunately, that method does still not exist, so ... 
 
 I started with a course on Python (Angela Yu's 100 Days of Python), where I learnt the important concepts of programming, how to create my own apps, working with APIs, data science, web development with bootstrap, web scraping, automation, etc 
 
