@@ -17,7 +17,9 @@ I am currently completing Andrei Nagoie's 'The Complete Web Developer: Zero to M
 *   🌍  I'm based in London, UK
 *   ✉️  You can contact me at [jrute@live.com](mailto:jrute@live.com)
 *   🧠  I'm learning Javascript
-*   🤝  I'm open to collaborating on Websites### Skills 
+*   🤝  I'm open to collaborating on Websites
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
