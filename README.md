@@ -5,6 +5,7 @@ Software Developer
 ------------------
 
 I am an MFL Teacher looking for a career change. 
+
 My first step was googling 'how to become a python master really fast and effortlessly'. 
 
 Unfortunately, that method does still not exist, so ... 
