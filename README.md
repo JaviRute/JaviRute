@@ -6,17 +6,16 @@ Software Developer
 
 I am an MFL Teacher looking for a career change. 
 
-My first step was googling 'how to become a python master really fast and effortlessly'. Unfortunately, that method does still not exist, so ... 
-
 I started with a course on Python (Angela Yu's 100 Days of Python), where I learnt the important concepts of programming, how to create my own apps, working with APIs, data science, web development with bootstrap, web scraping, automation, etc 
 
 I then improved upon my basic Python skills with a Google course called 'Crash Course on Python'. This was a challenging course that really pushed my boundaries, and from which I gained a certificate of completion. 
 
-I am currently completing Andrei Nagoie's 'The Complete Web Developer: Zero to Mastery', which will help me improve on my web development skills by learning Javascript and React.
+I have been studying Andrei Nagoie's "The Complete Web Developer: Zero to Mastery", and Angela Yu's "The Complete 2023 Web Development Bootcamp".
+Currently I am enrolled on HyperionDev's Web Development Bootcamp, which will help me improve on my web development skills by learning Javascript and React.
 
 *   🌍  I'm based in London, UK
 *   ✉️  You can contact me at [jrute@live.com](mailto:jrute@live.com)
-*   🧠  I'm learning Javascript
+*   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Websites
 
 ### Skills 
