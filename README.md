@@ -4,7 +4,7 @@ Hi 👋 My name is Javi Rute
 Software Developer
 ------------------
 
-I am an MFL Teacher looking for a career change. 
+I am an MFL Teacher looking for a career change. I am currently enrolled on a Web Development bootcamp, which I expect to complete by December 2022.
 
 I started with a course on Python (Angela Yu's 100 Days of Python), where I learnt the important concepts of programming, how to create my own apps, working with APIs, data science, web development with bootstrap, web scraping, automation, etc 
 
