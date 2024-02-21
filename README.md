@@ -8,11 +8,10 @@ I am an MFL Teacher looking for a career change into web or software development
 
 I started my coding journey by learning Python on my own after completing several [Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=24T4FS22124) and [Cursera](https://www.coursera.org/learn/python-crash-course) courses.  I learnt the important concepts of programming, how to create my own apps, working with APIs, data science, web development with bootstrap, web scraping, automation, etc 
 
-I then moved on to web development: I completed a bootcamp (view certificate [here](https://www.hyperiondev.com/portfolio/101528/)) plus several big fat Udemy couses (mainly [Angela](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=24T4FS22124) Yu and [Andrei Neagoie](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)'s courses but also others)
+I then moved on to web development: I completed a bootcamp (view certificate [here](https://www.hyperiondev.com/portfolio/101528/)) plus several big fat Udemy couses (mainly [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=24T4FS22124)'s and [Andrei Neagoie](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)'s courses but also others)
 
-Currently I am working on my own apps for language learning, which will replace my old Python apps and will hopefully soon be on my [portfolio](https://javirute.github.io/portfolio/)
+Currently I am working on my own apps for language learning, which will replace my old Python apps and will hopefully soon be on my [portfolio](https://javirute.github.io/portfolio/).
 
-enrolled on HyperionDev's Web Development Bootcamp, which will help me improve on my web development skills by learning Javascript and React.
 
 *   🌍  I'm based in London, UK
 *   ✉️  You can contact me at [jrute@live.com](mailto:jrute@live.com)
