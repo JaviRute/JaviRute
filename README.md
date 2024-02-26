@@ -16,7 +16,7 @@ Currently I am working on my own apps for language learning, which will replace 
 *   🌍  I'm based in London, UK
 *   ✉️  You can contact me at [jrute@live.com](mailto:jrute@live.com)
 *   🧠  I'm learning Firebase.
-*   🤝  I'm open to collaborating on Websites
+*   🤝  I'm open to collaborating on Websites and language learning apps.
 
 ### Skills 
 <p align="left">
